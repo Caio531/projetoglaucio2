@@ -1,0 +1,266 @@
+body {
+    margin: 0;
+}
+
+#menu_superior {
+    width: 100vw;
+    height: 100vh;
+    background-color: #222;
+}
+
+#primeiro_alerta {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 2px;
+    position: relative;
+    left: 430px;
+    line-height: 70px;
+}
+
+#primeiro_alerta>button {
+    padding: 4px 30px;
+    border: 5px solid #eb5757;
+    border-radius: 25px;
+    background-color: #eb5757;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+#conteudo_banner_inferior .link {
+    display: none;
+}
+
+#carrinho {
+    position: relative;
+    left: 900px;
+    display: inline-block;
+}
+
+#home {
+    position: relative;
+    left: 600px;
+    display: inline-block;
+    color: white;
+}
+
+#about {
+    position: relative;
+    left: 650px;
+    display: inline-block;
+}
+
+#shop {
+    display: inline-block;
+    position: relative;
+    left: 700px;
+}
+
+#donate {
+    display: inline-block;
+    position: relative;
+    left: 750px;
+}
+
+#contact {
+    display: inline-block;
+    position: relative;
+    left: 800px;
+}
+
+#logo1 {
+    display: inline-block;
+    position: relative;
+    left: 100px;
+}
+
+#imagemserv {
+    display: inline-block;
+    position: relative;
+}
+
+#textoimagemserv {
+    display: inline-block;
+    position: absolute;
+    top: 300px;
+    width: 35%;
+    left: 100px;
+    line-height: 1.2;
+    height: 50px;
+    color: white;
+    font-style: normal;
+}
+
+#textoimagemserv h1 {
+    color: white;
+    font-size: 62px;
+}
+
+#textoimagemserv p {
+    font-size: 18px;
+}
+
+#textoimagemserv button {
+    border-radius: 5px;
+    padding: 5px 30px;
+    color: white;
+    background-color: #222;
+    opacity: 0.8;
+    border-color: white;
+}
+
+.formas_de_suporte {
+    position: relative;
+    left: 95px;
+    display: inline-block;
+}
+
+.formas_de_suporte h3 {
+    font-size: 40px;
+    background-color: #222;
+    color: white;
+}
+
+#imagemhow {
+    display: inline-block;
+    position: relative;
+}
+
+#howwe {
+    display: inline-block;
+    position: absolute;
+    top: 1700px;
+    width: 35%;
+    right: 100px;
+    line-height: 1.2;
+    height: 50px;
+    color: white;
+    font-style: normal;
+    font-size: 30px;
+}
+
+#howwe button {
+    position: relative;
+    display: inline-block;
+    left: 300px;
+    border-radius: 5px;
+    padding: 5px 30px;
+    color: black;
+    background-color: white;
+    opacity: 0.8;
+    border-color: white;
+}
+
+#prodcaneca {
+    display: inline-block;
+    position: relative;
+    left: 500px;
+    bottom: 330px;
+}
+
+.shop_products {
+    position: relative;
+    left: 95px;
+}
+
+#prodbolsa {
+    position: relative;
+    display: inline-block;
+    left: 600px;
+    bottom: 330px;
+}
+
+#prodbarraca {
+    position: relative;
+    display: inline-block;
+    left: 95px;
+}
+
+#prodbarraca h3 {
+    position: relative;
+    left: 100px;
+}
+
+#prodbarraca p {
+    position: relative;
+    left: 100px;
+}
+
+#prodbarraca button {
+    position: relative;
+    left: 100px;
+    background-color: greenyellow;
+    border-radius: 5px;
+    padding: 5px 30px;
+    color: white;
+}
+
+#prodcaneca h3 {
+    position: relative;
+    left: 100px;
+}
+
+#prodcaneca p {
+    position: relative;
+    left: 100px;
+}
+
+#prodcaneca button {
+    position: relative;
+    left: 100px;
+    background-color: greenyellow;
+    border-radius: 5px;
+    padding: 5px 30px;
+    color: white;
+}
+
+#prodbolsa h3 {
+    position: relative;
+    left: 100px;
+}
+
+#prodbolsa p {
+    position: relative;
+    left: 100px;
+}
+
+#prodbolsa button {
+    position: relative;
+    left: 100px;
+    background-color: greenyellow;
+    border-radius: 5px;
+    padding: 5px 30px;
+    color: white;
+}
+
+#botaoview {
+    position: relative;
+    right: 100px;
+    bottom: 200px;
+    border-radius: 5px;
+    padding: 5px 30px;
+    color: white;
+    display: inline-block;
+}
+
+.shop_local {
+    position: relative;
+    left: 95px;
+    background-color: #222;
+}
+
+.shop_local h2 {
+    display: inline-block;
+    position: relative;
+    left: 250px;
+    bottom: 290px;
+    font-size: 40px;
+    color: white;
+}
+
+.shop_local p {
+    position: relative;
+    left: 700px;
+    bottom: 250px;
+    color: white;
+}
